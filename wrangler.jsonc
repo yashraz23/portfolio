@@ -3,7 +3,7 @@
   "name": "yashgudivada",
   "compatibility_date": "2026-09-16",
   "assets": {
-    "directory": "./",
+    "directory": "./docs",
     "not_found_handling": "404-page"
   }
 }
